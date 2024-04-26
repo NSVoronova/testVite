@@ -26,6 +26,7 @@ module.exports = {
     '.eslintrc.cjs',
     'vite.config.ts',
     'public/config.js',
+    'postcss.config.cjs',
   ],
   overrides: [],
   parser: '@typescript-eslint/parser',
