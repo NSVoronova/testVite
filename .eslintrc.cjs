@@ -6,7 +6,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
-    project: './my-cv/tsconfig.json',
+    project: './tsconfig.json',
   },
   extends: [
     // 'airbnb',
