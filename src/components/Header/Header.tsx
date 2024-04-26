@@ -1,7 +1,7 @@
 const Header = () => {
   console.log('hello');
 
-  return <div>New</div>;
+  return <div>Back in black</div>;
 };
 
 export default Header;
